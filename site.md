@@ -1,3 +1,7 @@
+layout: page
+title: "Portfolio"
+permalink: /portfolio/
+
 <html>    
     <head><link rel="stylesheet" href="styles.css"> <title>Alexandra Wang</title></head>
     
